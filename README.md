@@ -1,5 +1,5 @@
 <!--# Atallah1-->
-<h1 style="text-aligt:center"><i>ATALLAH</i></h1>
+<h1 style="text-aligt:center">ATALLAH</h1>
 <br>
 <a href="https://www.tiktok.com/@ia_di8?lang=en"><img src="https://github.com/Atallah88/MD-store/blob/main/download.png?raw=true" alt="ia_di8" style="width:42px;height:42px;"></a>
 <br>
