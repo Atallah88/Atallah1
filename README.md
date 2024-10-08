@@ -10,8 +10,8 @@
 <br>
 <a href="https://accounts.snapchat.com/v2/welcome"><img src="https://github.com/Atallah88/MD-store/blob/main/download%20(1).png?raw=true" alt="ia_di8" style="width:42px;height:42px;"></a>
 <dl>
-  <dt>Coffee</dt>
+  <dt>SnapChat</dt>
   <dd>-<a href="https://accounts.snapchat.com/v2/welcome"><img src="https://github.com/Atallah88/MD-store/blob/main/download%20(1).png?raw=true" alt="ia_di8" style="width:42px;height:42px;"></a> </dd>
-  <dt>Milk</dt>
+  <dt>TTikTok</dt>
   <dd>- <a href="https://www.tiktok.com/@ia_di8?lang=en"><img src="https://github.com/Atallah88/MD-store/blob/main/download.png?raw=true" alt="ia_di8" style="width:42px;height:42px;"></a></dd>
 </dl>
