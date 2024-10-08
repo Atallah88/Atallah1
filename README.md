@@ -5,6 +5,7 @@ body {
   background-attachment: fixed; 
   background-size: 100% 100%;
   }
+  </head>
 <body style="background-color:cornnsilk">
 <h1 style="text-aligt:center"> &copy;</h1>
 <br>
