@@ -1,5 +1,5 @@
 <!--# Atallah1-->
-<body style="background-color:tan">
+<body style="background-color:darkslategray">
 <h1 style="text-aligt:center"> &copy;</h1>
 <br>
 <a href="https://www.tiktok.com/@ia_di8?lang=en"><img src="https://github.com/Atallah88/MD-store/blob/main/download.png?raw=true" alt="ia_di8" style="width:42px;height:42px;"></a>
